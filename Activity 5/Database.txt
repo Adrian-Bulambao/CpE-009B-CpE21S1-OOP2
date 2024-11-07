@@ -1,0 +1,6 @@
+First Name:Adrian
+Last Name:Bulambao
+Username:AJ
+Password:Password
+Email Address:ajb@email.com
+Contact Number:09647583291
